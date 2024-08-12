@@ -18,12 +18,15 @@ This React Native application is a simple student registration form that allows 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/student-registration-form.git
-   
+   ```
 2. **Install Dependencies:**
 Navigate to the project directory and install the required dependencies.
   ```bash
-    cd student-registration-form
-    npm install
-
-
-
+   cd student-registration-form
+   npm install
+```
+3. **Start the Application:** 
+Start the application using Expo CLI.
+```bash
+   npm start
+```
