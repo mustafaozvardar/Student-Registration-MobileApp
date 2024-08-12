@@ -19,7 +19,10 @@ This React Native application is a simple student registration form that allows 
    ```bash
    git clone https://github.com/your-username/student-registration-form.git
    ```
-2. **Install Dependencies:**
+   or
+   Click the "Code" then **Dowloand ZIP**
+   
+3. **Install Dependencies:**
 Navigate to the project directory and install the required dependencies.
   ```bash
    cd student-registration-form
